@@ -1,6 +1,6 @@
 This project is for paper "Generative Diffusion Receivers: Achieving Pilot-Efficient MIMO-OFDM Communications" submitted to IEEE OJCOMS.
 
-Please first use the codes in dataset/ to generate the dataset
+Please first use the codes in dataset/ to generate the dataset, the figure indicates the scenario and the selected area
 
 The main entrance is main_OFDM.py, please use the .sh templates
 
