@@ -1,4 +1,4 @@
-This project is for paper "Generative Diffusion Receivers: Achieving Pilot-Efficient MIMO-OFDM Communications" submitted to IEEE OJCOMS.
+This project is for paper "Generative Diffusion Receivers: Achieving Pilot-Efficient MIMO-OFDM Communications" submitted to IEEE TNSE.
 
 Please first use the codes in dataset/ to generate the dataset, the figure indicates the scenario and the selected area
 
